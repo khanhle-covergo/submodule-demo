@@ -1,0 +1,3 @@
+[submodule "submodule-module01"]
+	path = submodule-module01
+	url = https://github.com/khanhle-covergo/submodule-module01.git
